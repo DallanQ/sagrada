@@ -1,79 +1,49 @@
 [when-can-you-decide-which-window-youre-going-to-us](https://boardgamegeek.com/thread/3185534/when-can-you-decide-which-window-youre-going-to-us)
-> When can you decide which window you're going to use?
-
-Windows selection comes after the tools and public & private objectives have been revealed.
  
 [solo-private-objectives-change](https://boardgamegeek.com/thread/1965825/solo-private-objectives-change)
-> Solo Private Objectives change?
-
-The rulebook says in Solo mode you deal out two private objectives and pick one to score at the end, but a small adjustment made with the second printing indicate pulling only one private objective.
 
 [question-about-scoring-for-solo](https://boardgamegeek.com/thread/2874409/question-about-scoring-for-solo)
-> Question about scoring for solo (How to score for solo?)
-  > So in solo, you're trying to beat the total of the dice on the round card. But each round, unless you use a tool, you'll be putting two dice on the card. Does this mean you're going to be totaling 15-19 dice              (depending on how many tools you use)?
+> In solo mode, you're trying to beat the total of the dice on the round card. But each round, unless you use a tool, you'll be putting two dice on the card. Does this mean you're going to be totaling 15-19 dice (depending on how many tools you use)?
 
 Yes. Your challenge is to choose dice that is both good for you and low for round track each round, and using tools for reduce total dice in round track too.
 
-NOTE
-Can I combine questions into a stand-alone.
-And how do I treat a mother question, with a child question having just one answer?
-
-
 [solo-mode-clarification](https://boardgamegeek.com/thread/1760265/solo-mode-clarification)
-> Solo Mode Clarification?
-
-From the rulebook: End of the Round. All remaining dice are placed on the Round Track as normal, taking care to not change the value of any dice. If no dice remain, use a Score Marker as a placeholder.
-End Game Scoring. The game ends after the end of 10th round. Before flipping the Round Track, add up the Target Score. The Target Score is the sum of the values from all the dice on the Round Track. Dice used to pay      for Tool Cards are not counted. Tally your Victory Point total as normal, however, you lose 3. Victory Points for each open space. If your Victory Point total is greater than the Target Score, you win!
-You have the potential to use all four dice in a round because you take two turns per round and on each turn you can place a die on your board and/or use a tool. When you use a tool, you place the required die on the     tool card and you can't use the tool again for the rest if the game. However, using the player token is just a way to show the round was completed.
-Meanwhile, any unused dice go on the Round Track and count against you. (There can also be 2 dice placed on the track in the same spot. Example if you don't use any tools you during Round 1, place both remaining dice     on the number 1 spot). The dice that you use for tools are not counted. Tools can only be used once using a die that is of the appropriate shade or colour shown on the top left corner. The Score Marker is just a          placeholder to keep track of the round and is only used if you used 2 Tools during that round.
 
 [is-there-an-faq-for](https://boardgamegeek.com/thread/2487966/is-there-an-faq-for)
-> Is there a collated FAQ for Sagrada?
-
-Not officially. But here you can find some answers for many common questions: [Sagrada and Sagrada Passion FAQ] ()
-
-NOTE
-This answer required a link. So the answer is uncomplete at the moment. But I believe the link would have help more for the AI. In the future can I add a link?
 
 [tool-clarification-copper-foil-burnisher](https://boardgamegeek.com/thread/1849439/tool-clarification-copper-foil-burnisher)
 
 
 [diagonal-scoring-for-passions-extension](https://boardgamegeek.com/thread/2466136/diagonal-scoring-for-passions-extension)
-> Is it accurate that for the Diagonal Color Link Public Objective card in the Passions extension, you receive two points for each diagonally-connected same-color die that is the largest number of such dice of the same     color on the card (twelve points in the card’s example shown)?
-
-You only score one of that diagonals. The card says "your largest diagonal" so even you have multiples diagonals with same number of dice you cannot score for all of them, just one.
 
 
 [tool-card-color-and-value-restrictions](https://boardgamegeek.com/thread/1889194/tool-card-color-and-value-restrictions)
-> Tool Card - Color and value restrictions?
-  > Can we use this card for place a die adjacent to a die of the same color too?
+> The game has a tool card that says "Move any one die in your window ignoring color restrictions" with a picture of a red die placed in a blue space." my question is: can we use this card for place a die adjacent to a die of the same color too?
 
 The tool Card is intended to be used so you can cover a colour on your board with a different coloured die. However, it also states that you can never break the adjacency rules. Never.
   
 [running-pliers-and-tap-wheel-explained-plz](https://boardgamegeek.com/thread/2867007/running-pliers-and-tap-wheel-explained-plz)
-> Can you please explain to me what the Running Pliers and Tap Wheel tool cards mean.
-  > Running Pliers…. What is my first turn? Round 1 or could it be the other rounds?
-  > Is it not for solo play as when playing on your own you do get 2 turns?
-  > If it is for playing with others do I get to pick two times and skip the second turn in the round?
+
+> In solo mode what does the Running Pliers tool card mean? What is my first turn?
 
 Your "first turn" is the first die that you draft in a round. The Running Pliers allow you to take both of your dice consecutively with no other players choosing in between.
 
-> Tap Wheel……how do you pick the color of the die on the round track? Are you able to pick any color on the round track?
+> In solo mode what does that Tap Wheel tool card mean? How do you pick the color of the die on the round track? Are you able to pick any color on the round track?
 
 Whatever color that you like on the round track, so long as you have two dice of that color in your window that can be legally swapped.
 
->  When playing solo are you allowed to take 2 turns and also use a tool card or is it 1 turn and 1 tool.
+> When playing solo are you allowed to take 2 turns and also use a tool card or is it 1 turn and 1 tool.
 
 It's actually up to two tools and up to two dice, divided into two sections. On your first turn of the round, you may take one die, and you may use one tool - both are optional, not mandatory. Then, on your second turn, you may do the same again. The Running Pliers would be an exception to this as you only take one turn in the round - you take one die (optional, although why you would not is unclear) and then you use a tool (the Pliers) to take another die. You do not get another turn that round so you could not use another tool.
 
-> Are there any times you will not add any dice to the round track.
+> When playing solo are there any times you will not add any dice to the round track?
 
-There might be something in an expansion. It's unlikely, though, because the turn track is the timer for the end of the game.
+No, because the turn track is the timer for the end of the game.
   
-
 [question-about-running-pliers](https://boardgamegeek.com/thread/2089185/question-about-running-pliers)
-> Question about Running Pliers?
-  > When you draft and place the second die, can you also play a second tool if you wanted to?
+
+> The Running Pliers card reads After your first turn, immediately draft a die. Skip your next turn this round." It sound like you get to draft a place a second die right away, but lose your next turn.
+> When you draft and place the second die, can you also play a second tool if you wanted to?
 
 Basically you get to draft both your dice for the round right away. This could be helpful, for instance, towards the end of the game when you are running out of placements on your player board, and two dice come up that you can use, and you don't want other players to snatch up the second one before your second draft that round.
 You draft your first die, use the tool to draft your second die, then everyone else goes. When it gets back to you that round you do nothing, since you have already drafted both dice that round.
