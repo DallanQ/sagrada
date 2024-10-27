@@ -50,17 +50,11 @@ You draft your first die, use the tool to draft your second die, then everyone e
 
 [initial-dice-placement-are-the-topsbottoms-also-ed](https://boardgamegeek.com/thread/1765937/initial-dice-placement-are-the-topsbottoms-also-ed)
 
-> I don't know that it matters, but there may be intent in the rules stating that the first dice must be placed on an edge or a corner. Does this mean that the middle three slots on the top/bottom rows cannot be initial dice placement spots? In other words, are the "roof" and "floor" of the future window are not considered edges?
+> The rules state that the first dice must be placed on an edge or a corner. Does this mean that the middle three slots on the top/bottom rows cannot be initial dice placement spots? In other words, are the "roof" and "floor" of the future window are not considered edges?
 
 There are 4 edges to the window, any of them are valid for the first die placed. There's no distinction between side-edges or top/bottom edges.
 
 The corners are mentioned to help clarify that they are valid (since playtesting revealed a few questions about corners specifically).
-
-> Thematically I can see this since a glass installer would be most likely to work from a side in, but maybe I'm just reading too much into this. Clarification would be appreciated before I try out the game tonight?
-
-When making a real-life stained glass window, you would actually start in the middle, and work out toward the edges. 
-
-The window is constructed on a work table, all the joints tacked together, then installed as one unit into the vertical window space.
 
 [rule-clarification](https://boardgamegeek.com/thread/2086608/rule-clarification)
 
@@ -74,13 +68,9 @@ But in the solo mode, you add the pips from all the dice on the round marker boa
 
 [solo-mode-and-private-objectives](https://boardgamegeek.com/thread/2579945/solo-mode-and-private-objectives)
 
-> As I understand it, you get two Private Objectives face up and you get to score one of them.
-Don't you also still get one Private Objective face down that you score?
-So in the end you are scoring two Private Objects:
-1) Your face-down private objective
-2) And one of the two face-up private objectives.
+> In solo mode you get two Private Objectives face up and you get to score one of them. Don't you also still get one Private Objective face down that you score?
 
-In Solo mode section from rulebook: Tally your Victory Point total as normal (selecting only one of the
+In Solo mode section from rulebook: End game scoring - Tally your Victory Point total as normal (selecting only one of the
 two Private Objectives), however, you lose 3 Victory Points for
 each open space.
 
@@ -91,16 +81,11 @@ It says about only two private objectives. You don't get a face down like a mult
 
 [what-happens-when-you-have-multiple-dice-at-end-of](https://boardgamegeek.com/thread/3296366/what-happens-when-you-have-multiple-dice-at-end-of)
 
-> "At the end of the round each player should likely have taken 2 dice (unless they chose to pass).
-Any dice that are left over (usually only 1) are placed on the round Track, covering the number for the
-just completed round."
-What happens when you have multiple dice left over? (This also applies to the solo variant, where you roll four dice and may only use two.)
+> The rules say "At the end of the round each player should likely have taken 2 dice (unless they chose to pass).
+> Any dice that are left over (usually only 1) are placed on the round Track, covering the number for the just completed round."
+> What happens when you have multiple dice left over? (This also applies to the solo variant, where you roll four dice and may only use two.)
 
-The rulebook under end of round: its stste that all remaining dice are placed on the Round Track, covering the number space for the just completed round. If multiple dice remain (due to players skipping a draft action) these do not cover additional number spaces.
-
-> Do you have to put all the leftover dice onto the track? In which case, do you put one dice over the round number, then put the other dice "north" of that?
-
-Yes and yes.
+The rulebook under end of round says "all remaining dice are placed on the Round Track, covering the number space for the just completed round. If multiple dice remain (due to players skipping a draft action) these do not cover additional number spaces."
 
 [sagrada-and-expansions-faq](https://boardgamegeek.com/thread/2464353/sagrada-and-expansions-faq)
 
@@ -110,8 +95,6 @@ Yes and yes.
 
 No. Each favor token is worth a point at the end of the game, so if you don’t end up spending any, you will get points. But the card itself doesn’t give you any points.
 
-You get more stones that, if you can avoid using them, it can push your score higher. With a game decided by 50-60 points, that can be 10% of your score.
-
 [variations-for-the-solo-play-rules](https://boardgamegeek.com/thread/1776711/variations-for-the-solo-play-rules)
 
 [2-player-drafting](https://boardgamegeek.com/thread/1786148/2-player-drafting)
@@ -120,16 +103,11 @@ You get more stones that, if you can avoid using them, it can push your score hi
 
 
 Yes, that's the correct order.
-And from the rulebook: Once the last player has completed their first turn, the round continues in reverse order (counter-clockwise). Beginning with the last player, each player takes a second turn.
+From the rulebook: "Once the last player has completed their first turn, the round continues in reverse order (counter-clockwise). Beginning with the last player, each player takes a second turn."
 
 [bilanciamento-dadi-in-numero-diverso-di-giocatori](https://boardgamegeek.com/thread/2910286/bilanciamento-dadi-in-numero-diverso-di-giocatori)
 
 [end-game-scoring-sets](https://boardgamegeek.com/thread/1788913/end-game-scoring-sets)
-
->Are sets considered adjacent? Or if the two dice are anywhere on the board? Not necessarily next to each other.
-
-Yes. That's why the card says "anywhere". 
-
 
 [how-many-tokens-does-the-tool-cards-cost](https://boardgamegeek.com/thread/3032264/how-many-tokens-does-the-tool-cards-cost)
 
