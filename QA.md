@@ -141,12 +141,13 @@ And if a die is adjacent diagonally to any other same colored die, count it as 1
 
 > Concerning placing dice, for example when there are 2 players, often only one dice would be left at the end of the turn - so it goes on the round track. But what if there are two left? Should the dice placed on the track be chosen randomly? Because there are two tools that are connected to those dices. One that allows you to move dice of the same colour as the one on the track (which one of multiple left from last round should count?) and the other which lets you take any dice from the track.
 
-From page 4 of the rulebook: It state that all remaining dice are placed on the Round Track, covering the number space for the just completed round. If multiple dice remain (due to players skipping a draft action) these do not cover additional number spaces.
+From page 4 of the rulebook: It state that "all remaining dice are placed on the Round Track, covering the number space for the just completed round. If multiple dice remain (due to players skipping a draft action) these do not cover additional number spaces."
 Normally, you should only have one die left after everyone has taken their turn regardless of the player count. The only reason you would have more is that, if a player, for any or some reason was unable to place a die/dice. As noted above, all remaining dice go onto the round track. Just put the extra(s) above or below the normal one for the round. For the purpose of tools, all of the dice on the round track would count.
 
 > How about the solo variant? Will all unused dices from each turn counts to the points you have to beat? (Which means at least 20 various dice?) - Is it even possible to win?
 
-The same rulebook is true for the solo mode - all of the unplayed dice count. And if player have been unable to play an additional 10 dice then the player will likely lose.
+From page 4 of the rulebook: It state that "all remaining dice are placed on the Round Track, covering the number space for the just completed round. If multiple dice remain (due to players skipping a draft action) these do not cover additional number spaces."
+All of the unplayed dice count. And if player have been unable to play an additional 10 dice then the player will likely lose.
 And yes, player have to play against at least 20 dice. As sometimes it can be brutal.
 
 [round-track-match](https://boardgamegeek.com/thread/2718459/round-track-match)
@@ -165,27 +166,29 @@ All unused dice cover the same spot. Nothing in the rules suggests you choose on
 
 [solo-how-many-actions](https://boardgamegeek.com/thread/1928333/solo-how-many-actions)
 
-> My question is related to the turns: how many actions can you have? The rule book says: "Take 2 turns, choosing to Draft and Place a die (as normal) and/or use a Tool Card, or pass. At the end of the Round, remaining dice are placed on the Round Track."
-Does this mean that in the turn I can:
-Place a dice and use a tool?
-Place a dice only and no tool usage?
-Use a tool only and no dice placing
-pass?
-And then, in my second turn, once again as mentioned above?
+> My question is related to the turns in solo mode: how many actions can you have? The rule book says: "Take 2 turns, choosing to Draft and Place a die (as normal) and/or use a Tool Card, or pass. At the end of the Round, remaining dice are placed on the Round Track."
+> Does this mean that in the turn I can:
+> Place a dice and use a tool?
+> Place a dice only and no tool usage?
+> Use a tool only and no dice placing?
+> or pass?
+> And then, in my second turn, do once again as mentioned above?
 
 You may place a die and use a tool (with a different die) during your turn. So on a Round you could actually take all 4 dice - 2 to place in your window and 2 to use for tools.
 
 [can-you-use-a-lathekin-to-make-a-pattern-you-could](https://boardgamegeek.com/thread/2462217/can-you-use-a-lathekin-to-make-a-pattern-you-could)
 
-> With the lathekin, can you move number 3 somewhere else?
+> Can you use a lathekin to make a pattern you couldn’t have in normal placement?
+> Say you have two sections of dice connected by a 3: you have dice 1, 2, 3, 4, and 5 in the first row, and dice 6, 7, a blank spot, 8, and 9 in the second row. 
+> With the lathekin, can you move die 3 somewhere else, so that now dice 1, 2, 6, and 7 are disconnected from dice 4, 5, 8, and 9?
 
 Yes, you can!
 
 [solo-tool-use-or-not](https://boardgamegeek.com/thread/1869688/solo-tool-use-or-not)
 
-> Can you place a die on a tool card even if it is not possible to perform the tool action, or if you simply don't want to perform the tool action?
+> In solo mode, can you place a die on a tool card even if it is not possible to perform the tool action, or if you simply don't want to perform the tool action?
 
-The spirit of the game, calls for being very puzzle-like in nature. Meaning that you couldn't place a die unless you actually used that tool. This of course means that you can plan around your tools and increases the complexity and means you have to plan further ahead.
+You can't place a die unless you actually use that tool. 
 However, there is one particular tool that you can essentially 'not use' by taking it as literally as the rest - Tap Wheel. As it says "Move UP TO two dice", you could move zero dice as that is fewer than two!
 
 [unused-dice](https://boardgamegeek.com/thread/1762064/unused-dice)
@@ -196,15 +199,11 @@ You place all remaining dice on the round track, but only cover 1 space. All dic
 
 [select-window-card-before-or-after-viewing-public](https://boardgamegeek.com/thread/1983048/select-window-card-before-or-after-viewing-public)
 
-> Because the rules shows the player set up separate from the game set up, I’m I to select window card before seeing what the public objectives are? Or looking at the public objectives and then selecting a window card after that?
-
-Give out the Private Objectives, then select the Window Cards. Then finally, put out the Tools and Public Objectives.
-
 [placing-dice-on-the-round-track-at-the-end-of-a-ro](https://boardgamegeek.com/thread/1759601/placing-dice-on-the-round-track-at-the-end-of-a-ro)
 
-> My question is, who gets to decide which die is to be placed on the round number space? The start player of the the just finished round? Someone else? It can make a difference if the Lens Cutter or Tap Wheel tools are in play. Also, it is not explicitly stated, but is the die to be placed on the round track supposed to show the side up that was rolled, or does the player who places it there get to decide? The example in the rules shows a purple 5 remaining a 5 on the round one space.
+> who gets to decide which die is to be placed on the round number space? The start player of the the just finished round? Someone else? Also, it is not explicitly stated, but is the die to be placed on the round track supposed to show the side up that was rolled, or does the player who places it there get to decide? The example in the rules shows a purple 5 remaining a 5 on the round one space.
 
-Though if there's more than one die left over, only one die is used to cover the round space. The rest just sit on the board. If for example, there are 2 dice left over in round one, you wouldn't cover both the 1 and 2 spaces on the round tracker, just the 1 space.
+If there's more than one die left over, only one die is used to cover the round space. The rest just sit on the board. If for example, there are 2 dice left over in round one, you wouldn't cover both the 1 and 2 spaces on the round tracker, just the 1 space.
 
 [passion-color-diagonal-scoring](https://boardgamegeek.com/thread/2761979/passion-color-diagonal-scoring)
 
