@@ -201,37 +201,118 @@ You place all remaining dice on the round track, but only cover 1 space. All dic
 
 [placing-dice-on-the-round-track-at-the-end-of-a-ro](https://boardgamegeek.com/thread/1759601/placing-dice-on-the-round-track-at-the-end-of-a-ro)
 
-> who gets to decide which die is to be placed on the round number space? The start player of the the just finished round? Someone else? Also, it is not explicitly stated, but is the die to be placed on the round track supposed to show the side up that was rolled, or does the player who places it there get to decide? The example in the rules shows a purple 5 remaining a 5 on the round one space.
+> Who gets to decide which die is to be placed on the round number space? The start player of the the just finished round? Someone else? Also, it is not explicitly stated, but is the die to be placed on the round track supposed to show the side up that was rolled, or does the player who places it there get to decide? The example in the rules shows a purple 5 remaining a 5 on the round one space.
 
 If there's more than one die left over, only one die is used to cover the round space. The rest just sit on the board. If for example, there are 2 dice left over in round one, you wouldn't cover both the 1 and 2 spaces on the round tracker, just the 1 space.
 
 [passion-color-diagonal-scoring](https://boardgamegeek.com/thread/2761979/passion-color-diagonal-scoring)
 
+> When using the Passion expansion and the Rare Glass Dice, do you count the Rare Glass Dice more than once because they're wild?
+
+Rare Glass die isn't a "wild color". It's a new color that can be placed in any color restriction, but count as another color. So in this case you would score only 6 points (2 for top green dice, 2 for low green dice, 2 for left red dice).
+
 [color-variety-card-and-rules-clarification](https://boardgamegeek.com/thread/3102671/color-variety-card-and-rules-clarification)
+
+> I need some clarification on how Color Variety card works and what the card text and rules example is trying to convey. Because the card says, Color Variety - Sets of one of each color anywhere. Could someone break this down for me and point out the column numbers and row letters for the dice being scored in this example?
+
+Here are the column numbers and row letters:
+4G 1G 6G 4G 4G
+2R 3R 3R
+5Y 2Y 3Y
+6P 5P 6P
+1B 4B 2B
+
+Each row is the set of dice of a certain color. There are three columns that have all 5 colors. So that means you have three sets of 1 of each color.
+The simple way to score it is to count how many you have of each color and take the least one. That is how many full sets you have.
 
 [explanation-tool-cards](https://boardgamegeek.com/thread/1944649/explanation-tool-cards)
 
+> The questions are about the tool cards following cards:
+Eglomise brush - Do you have to make the move exactly as described (two cells above and three to the right) with the number described (the red 3) or is there room for interpretation (which I think it is). Could it be with any number, to every place as long as there are no same numbers or colors next to each other and as long as the moved die connects to another (earlier) placed die.
+Tap wheel and Lathekin - Also the move question as I had with eglomise brush
+Copper foil burnisher - Also move question? What is that with the white 1 on the card?
+Running pliers - What means skip your next turn this round? Why would I use this tool?
+
+Move according to the written instructions in the rulebook:
+
+The white 1 is an example of a value restriction, i.e. that space has to have a 1 on it. The tool allows you to ignore that.
+
+The "skip your next turn" bit is because you're taking your 2nd die before you should do so (jumping the queue), so when the turn order comes back around to you for the 2nd die you don't take it because you already have.
+
+> Question regarding Eglomise brush. When no other move is possible, is it also allowed to move? For example a green to geen value because the die number suits better?
+
+Sure! The card allows you to ignore color restrictions, but if you don't need to then no problem.
+
 [flux-brush-tool-no-6-question](https://boardgamegeek.com/thread/2611695/flux-brush-tool-no-6-question)
 
+> If I use the Flux Brush to re-roll a die and get a legally playable number, but don't want to place it. Can I leave it in the pool? I know I can pass ordinarily, but if already committed to a draft I don't know if that changes things. Does it? In this case I needed one specific number to complete a goal and didn't get it, so it forced me to miss the goal if placed.
+
+In the rulebook, Flux Brush Tool
+state: After drafting, re-roll the drafted die. If it cannot be placed, return it to the Draft Pool.
+This tool says that if you cannot place the die then you return it to draft pool. So if you can place it, well, you have to place it.
+In your turn you have the option to draft, use a tool or do nothing. But if you choose one of them you have to complete that action if it's have a legal placement.
+And if you don't want to place one die to not miss an objective you will have a hole in your window at the end of the game. You will lose 1 point for any holes and won't complete any objectives that consider row or column for that empty space. 
+
 [tool-cards-and-obeying-placement-restrictions](https://boardgamegeek.com/thread/1809240/tool-cards-and-obeying-placement-restrictions)
+
+> The question is when do all the placement restrictions need to be followed? After each move or at the end of both movements?
+
+Each die is moved independently; therefore you must obey placement restrictions as you move each die.
+
 
 [solitaire-sagrada-question-tool-cards-per-round](https://boardgamegeek.com/thread/2714726/solitaire-sagrada-question-tool-cards-per-round)
 
 [bag-checking-rules](https://boardgamegeek.com/thread/1789555/bag-checking-rules)
 
+> Concerning the bag checking rule, can one look in the bag at any point in the game? How about towards the end and there are only one or two rounds left?
+
+Since all pulled dice are known,
+looking in the bag is fine if you feel so inclined.
+
 [placing-dice-on-the-round-tracker-and-taking-them](https://boardgamegeek.com/thread/2009828/placing-dice-on-the-round-tracker-and-taking-them)
+
+> When you place unused dice on the round tracker at the end of the round, must they always be stacked on the round space (keeping their orientation), or can you put one on the space and the rest next to it? I ask because I wonder how to use the tools that let you use dice from the round tracker - are you meant to be able to see all the dice saved to it, or only the topmost ones of each stack?
+
+You get to choose from all of them, so you should be able to see all of them.
 
 [tool-cards-and-favor-tokens](https://boardgamegeek.com/thread/1638674/tool-cards-and-favor-tokens)
 
 [confusion-about-where-to-place-a-die](https://boardgamegeek.com/thread/2248713/confusion-about-where-to-place-a-die)
 
+> The rules say you can place a die diagonally or orthogonally next to "A" previously placed die.. So is that any of the of dice that have been previously placed? Or strictly the last die I placed?
+
+Yes, you can place any die next to any other die diagonally, but you can't have 2 dice that are the same color or pip count orthogonally. In another word, you can place next to any previously placed die (as long as you don't break the adjacency, color or number restrictions, of course)
+
 [tool-clarification-lathekin](https://boardgamegeek.com/thread/1764525/tool-clarification-lathekin)
+
+> The rulebook says Lathekin: Move exactly two dice, obeying all placement restrictions. Does the Lathekin movement allow swapping of 2 already placed dice, or only movement of dice to open spaces on your board?
+
+Each move is an action on its own, done independently, so a swap is not possible.
+
+> Can you move the first die and then move the second die to the place where the first die came from?
+
+Yes, that's fine... there's no memory attached to the previous space for the first die.
 
 [number-of-tools-cards](https://boardgamegeek.com/thread/2149523/number-of-tools-cards)
 
+> For 2 players games, the 3 tools cards works perfectly.
+But what happens during a 4 players game? 3 cards? Or more? Because being double players we have the same amount of tokens each one, but the spaces occupied in the cards are doubled.
+In this way, don't we have lesser chances to use tools cards? Do we have to use 4 or 5 tools cards in a 4 players match?
+
+After the first use, any subsequent use costs 2. The only difference of having more players is that maybe you get fewer chances of being the first to use a card. Really it just puts a bit more pressure on using them earlier so you get the one token cost advantage, but usually using them earlier is not as good as using them later, so that's the trade-off. Always remember that by not using them, you get to count your unused tokens as points at the end of the game, so it's not a waste if you can't take an action and are left with tokens.
+
 [drafting-question](https://boardgamegeek.com/thread/2181787/drafting-question)
 
+> I need the official rule on drafting, can you only draft a die that is playable on your board?
+
+"Draft and place a die" is the action. If you can't do all the parts, then you'll have to pass or use a tool that will let you.
+
 [tool-xards](https://boardgamegeek.com/thread/2485046/tool-xards)
+
+> If a player buys tool card, can the player use the card every time in his turn? Or he must pay every time?
+
+Nobody ever "buys" the tool cards, they're always open for anyone to use.
+For each tool card, the first use in the game costs one Favor Token, every use after that costs 2 Favor Tokens.
 
 [public-objective-scoring](https://boardgamegeek.com/thread/1762575/public-objective-scoring)
 
