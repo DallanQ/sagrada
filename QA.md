@@ -316,27 +316,105 @@ For each tool card, the first use in the game costs one Favor Token, every use a
 
 [public-objective-scoring](https://boardgamegeek.com/thread/1762575/public-objective-scoring)
 
+> We played our first game today and had a question rewarding the scoring of public Objective cards. If the same die could be countedtwice due to it making two sets of the public Objective, is it counted twice, or only once.
+For instance, if the public Objective is "Light Shades" (2vp for each set of 1 value and 2 value dice). If I have a set of 1 with a 2 in the same column, and another set of 1 and 2 in a row, but I would be using the same value 2 card to make the sets, do I only score one set, or both since I'm reusing one of the dice to make them?
+
+It doesn't matter if the dice are in rows or columns. The "set" would include, in your example, a 1 pip die, and a two pip die as the set, giving you 2vp. Those dice cannot be counted toward another "set". That is, each die can only belong to one set.
+The scoring example in the rule book should help clarify as well.
+
 [copper-foil-burnisher-ruling-dispute](https://boardgamegeek.com/thread/2371080/copper-foil-burnisher-ruling-dispute)
+
+The question revolve around Copper Foil burnisher ruling dispute, so can you move a die to a tile that doesn’t have a value restriction
+
+The Copper Foil Burnished states:
+"Move anyone die in your window ignoring value restrictions you must obey all other placement restrictions."
+The tool allows you to ignore the restrictions given on your window card. So, you could place a 2 over a 3 (or a 2 over a blank), but not next to another 2. There are no mechanics in the game that allow you to ignore adjacency restrictions of color and value.
 
 [how-many-dice-to-use-for-solo](https://boardgamegeek.com/thread/2097100/how-many-dice-to-use-for-solo)
 
 [question-regarding-one-of-the-private-objective-ca](https://boardgamegeek.com/thread/3216369/question-regarding-one-of-the-private-objective-ca)
 
+> My questions are centred on private objective cards in the Passion expansion and rare dice in general.
+Every die with the same value as your Rare Glass Die" - does this also take into account the rare glass die? Meaning in the example on the card I would get 15 points?
+
+You don't count your Rare Glass die, just all other dice that have the same value. So in the example on the card you would get 12 points.
+
+> When spending favor tokens to take a rare die, am I then allowed to take a die from the draft pool and use a tool in the same turn?
+
+In the rulebook its clarifies that: When taking a Rare Glass die, do you skip drafting a die that turn?
+A: (Updated: Sept 22/20) Up to you, if you play the "Publisher's Variant" then taking a Rare Glass die is done in place of a regular "Draft a Die" action. If you play the "Designer's Variant", the Rare Glass die is considered a variant to a Tool (hence why it replaces one Tool card) and does not prevent you from your regular "Draft a Die" action.
+
 [tool-3-clarification](https://boardgamegeek.com/thread/2449951/tool-3-clarification)
+
+> Interpretation for Tool 3. Do you avoid constraints based on the number on the card/pattern or do you also ignore the dice around the dice you are moving? In that example drawn on the card (tool number 3) could the yellow dice be a 3?
+
+You only ignore the requirement printed on the window card.
+As far as I know, none of the tool cards allow you to place same colours or same numbers next to each other.
 
 [setup-check-for-both-expansions](https://boardgamegeek.com/thread/2856372/setup-check-for-both-expansions)
 
+> Just want to check I've got the setup right when using Passion & Life.
+In the centre would be:
+- Round track
+- 2 tool cards
+- 3 public objectives (base game + symmetry (Passion) + toil (life))
+- the dice pool
+- 1 rare glass board (Passion)
+- apprentice deck
+- masterwork board & dice
+Each player would have:
+- favour tokens based on the difficulty of their window
+- 1 inspiration card (Passion)
+- 1 private objective (base game + rare dice (passion))
+- apprentice window pattern
+Does that sound about right?
+I was wondering if it would be better to lay out 3 public objectives; 1 base game, 1 from Life, 1 from Passion?
+You could do the same with the private as well, give everyone 1 from the base game and 1 from Passion.
+Any thoughts?
+
+All public objectives could be randomly selected, so you don't need to choose one from each expansion. But this way you guarantee some great replayability each time you play.
+Just be sure to not have objectives that conflict with others.
+And about private objetives: the way you described is a "variant". Official rules states players get only 1 Passion private objective (if playing with Rare Glass module).
+I called a "variant" because it's what the FAQ we have here said (and I liked, sounds like a "new module").
+1 private objective (the Rare Glass from Passion) is the publisher's way (written in rules). 2 private objective (Rare Glass + base game, or even from 5-6 PE) it's the designer's way. That's what I meant.
+But in reality is just up to us to decide the way we'll play. And that's what I love the most in those Sagrada expansions!
+
 [game-setup-after-player-setup](https://boardgamegeek.com/thread/3051247/game-setup-after-player-setup)
 
+> Does Game Setup have to happen after Player Setup? I understand that the digital app does it this way, but is it explicitly stated that one has to happen before the other?
+
+Intentionally done to prevent new players from thinking they needed to make considerations like that (the decision should be based purely on difficulty level). There's no reason once you're experienced you can't perform player setup after game setup, though
+
 [can-a-player-draft-a-dice-to-just-discard-it](https://boardgamegeek.com/thread/1766512/can-a-player-draft-a-dice-to-just-discard-it)
+
+> Can a player only draft a dice that can be legally placed? If none of the dice can be legally placed, and the tools cannot assist a player, is the player forced to pass his/her turn?
+
+On your turn you may draft any die you want. You can then either use it in your window or discard it. If the tools don't help then you can draft a die that your neighbor wants (if you like to play viciously).
+EDIT: It seems that this is one thing that changed in the final copy of the rules: "Players may choose not to draft a die during their turn."
+So if you want to play with the official rules, you should only draft a die if you can place it on your window. Alternatively, you may pass.
 
 [what-that-means](https://boardgamegeek.com/thread/3139236/what-that-means)
 
 [error-while-placing-dice](https://boardgamegeek.com/thread/1850309/error-while-placing-dice)
 
+> If you see you did an error when you placed the dice and didn't respect a rule, can you remove the dice as soon as you see it or must you wait until the end of the game? I'm not implying you redraft if you see the mistake, but that could help you save some points if you can replace the bad dice later (even if 1 spot will be left open at the end for sure).
+
+Siting the rulebook, Page 4: It Quote:
+If a Player’s Window is ever found to break any of the placement restrictions, that player must immediately remove dice (of their choice) from their Window until all restrictions are obeyed.
+
 [lens-cutter-5-tool-card-clarification](https://boardgamegeek.com/thread/1866493/lens-cutter-5-tool-card-clarification)
 
+> When using the Lens Cutter(5)Tool Card I assume the dice drafted by the player does not have to valid for placement, but the dice chosen from the Round Track has to be? When playing this card started a discussion if a player could draft dice that could not be placed on their window?
+While, The card reads "After drafting, swap the drafted die with a die from the Round Track."
+
+Drafting and placing is atomic. This tool allows another step to be added to the atomic action of "draft and place"... it's now "draft, swap and place". In short, you can't use the tool unless you can perform the modified, atomic action ending with a valid placement.
+
 [color-diagonals-public-objective](https://boardgamegeek.com/thread/1763317/color-diagonals-public-objective)
+
+> Would Color Diagonals score only the longest color run? Or potentially score for each color?
+And. . .in the example shown on the card, would the blue score as 3 points or 4 points (can the diagonal run change direction)?
+
+Every dice that is diagonally adjacent to a dice of the same color is worth 1 point.
 
 [when-do-you-chose-your-window-tile](https://boardgamegeek.com/thread/1878920/when-do-you-chose-your-window-tile)
 
@@ -345,6 +423,10 @@ For each tool card, the first use in the game costs one Favor Token, every use a
 [tap-wheel-clarification-creating-orphans](https://boardgamegeek.com/thread/1763950/tap-wheel-clarification-creating-orphans)
 
 [tools-for-beginners](https://boardgamegeek.com/thread/3012340/tools-for-beginners)
+
+> What would be the easiest tool cards to use for a first game? What tools are the easiest to explain to first time players?
+
+I always play with the +/- 1 Tool with first timers.
 
 [how-many-dice-in-the-bag-to-start](https://boardgamegeek.com/thread/2574460/how-many-dice-in-the-bag-to-start)
 
