@@ -3,6 +3,7 @@
 [solo-private-objectives-change](https://boardgamegeek.com/thread/1965825/solo-private-objectives-change)
 
 [question-about-scoring-for-solo](https://boardgamegeek.com/thread/2874409/question-about-scoring-for-solo)
+
 > In solo mode, you're trying to beat the total of the dice on the round card. But each round, unless you use a tool, you'll be putting two dice on the card. Does this mean you're going to be totaling 15-19 dice (depending on how many tools you use)?
 
 Yes. Your challenge is to choose dice that is both good for you and low for round track each round, and using tools for reduce total dice in round track too.
@@ -18,6 +19,7 @@ Yes. Your challenge is to choose dice that is both good for you and low for roun
 
 
 [tool-card-color-and-value-restrictions](https://boardgamegeek.com/thread/1889194/tool-card-color-and-value-restrictions)
+
 > The game has a tool card that says "Move any one die in your window ignoring color restrictions" with a picture of a red die placed in a blue space." my question is: can we use this card for place a die adjacent to a die of the same color too?
 
 The tool Card is intended to be used so you can cover a colour on your board with a different coloured die. However, it also states that you can never break the adjacency rules. Never.
@@ -101,7 +103,6 @@ No. Each favor token is worth a point at the end of the game, so if you don’t 
 
 > In a 2 player game should it be player 1 drafts, then player 2 drafts twice then player 1 drafts?
 
-
 Yes, that's the correct order.
 From the rulebook: "Once the last player has completed their first turn, the round continues in reverse order (counter-clockwise). Beginning with the last player, each player takes a second turn."
 
@@ -156,7 +157,9 @@ And yes, player have to play against at least 20 dice. As sometimes it can be br
 Rulebook explains the procedure as follows: All remaining dice are placed on Round Track, covering the number space for the just completed round. If multiple dice remain (due to players skipping a draft action) these do not cover additional number spaces.
 As seen above, there is no explicit statement whether the first player of the round chooses the die that covers the spot of the just-completed round. So we were wondering what the official solution for this case is.
 
-All unused dice cover the same spot. Nothing in the rules suggests you choose only one die to go on the round track.
+Yes, all unused dice are placed on the round track, and there is no restriction on which dice are placed there. In the case where both players cannot draft dice in a round, all remaining dice in the draft pool are moved to the round track, covering the spot for the just-completed round. You do not need to select just one die to place; all dice that could not be drafted will cover the round spot.
+
+The *Round Track Match* public objective gives points for each die on your window that matches a die placed on the round track. Therefore, you can indeed earn points for each die placed on the round track if it matches a die in your window. If you have multiple dice that match, this could potentially lead to multiple points for each die on the round track.
 
 [sagrada-clarification](https://boardgamegeek.com/thread/2692672/sagrada-clarification)
 
@@ -183,6 +186,10 @@ You may place a die and use a tool (with a different die) during your turn. So o
 > With the lathekin, can you move die 3 somewhere else, so that now dice 1, 2, 6, and 7 are disconnected from dice 4, 5, 8, and 9?
 
 Yes, you can!
+
+Using the Lathekin Tool allows you to create a pattern that would not be possible through normal placement rules. The Lathekin permits you to move two dice, which can break connections between dice that would normally need to be adjacent.
+
+In your example, moving die 3 to a new location could indeed separate the groups (1, 2, 6, and 7 from 4, 5, 8, and 9). The move is valid as long as it still respects other placement rules, such as color and number restrictions on the target spaces. The Lathekin tool essentially bypasses the standard adjacency requirement temporarily, allowing for more flexible reconfiguration.
 
 [solo-tool-use-or-not](https://boardgamegeek.com/thread/1869688/solo-tool-use-or-not)
 
@@ -239,7 +246,7 @@ The white 1 is an example of a value restriction, i.e. that space has to have a 
 
 The "skip your next turn" bit is because you're taking your 2nd die before you should do so (jumping the queue), so when the turn order comes back around to you for the 2nd die you don't take it because you already have.
 
-> Question regarding Eglomise brush. When no other move is possible, is it also allowed to move? For example a green to geen value because the die number suits better?
+> Question regarding Eglomise brush. When no other move is possible, is it also allowed to move? For example a green to green value because the die number suits better?
 
 Sure! The card allows you to ignore color restrictions, but if you don't need to then no problem.
 
@@ -247,8 +254,10 @@ Sure! The card allows you to ignore color restrictions, but if you don't need to
 
 > If I use the Flux Brush to re-roll a die and get a legally playable number, but don't want to place it. Can I leave it in the pool? I know I can pass ordinarily, but if already committed to a draft I don't know if that changes things. Does it? In this case I needed one specific number to complete a goal and didn't get it, so it forced me to miss the goal if placed.
 
-In the rulebook, Flux Brush Tool
-state: After drafting, re-roll the drafted die. If it cannot be placed, return it to the Draft Pool.
+According to the rulebook, when using the Flux Brush Tool, once you draft and re-roll a die, you must place it if it has a legally playable number. The rule states: 
+
+"After drafting, re-roll the drafted die. If it cannot be placed, return it to the Draft Pool."
+
 This tool says that if you cannot place the die then you return it to draft pool. So if you can place it, well, you have to place it.
 In your turn you have the option to draft, use a tool or do nothing. But if you choose one of them you have to complete that action if it's have a legal placement.
 And if you don't want to place one die to not miss an objective you will have a hole in your window at the end of the game. You will lose 1 point for any holes and won't complete any objectives that consider row or column for that empty space. 
@@ -266,9 +275,7 @@ Each die is moved independently; therefore you must obey placement restrictions 
 
 > Concerning the bag checking rule, can one look in the bag at any point in the game? How about towards the end and there are only one or two rounds left?
 
-Since all pulled dice are known,
-looking in the bag is fine if you feel so inclined.
-
+Yes, it is allowed to look in the bag during the game. Since all the dice that have been pulled are known (due to being placed on the players' boards and the round track), you can deduce what is left in the bag. There is no restriction on checking the bag.
 [placing-dice-on-the-round-tracker-and-taking-them](https://boardgamegeek.com/thread/2009828/placing-dice-on-the-round-tracker-and-taking-them)
 
 > When you place unused dice on the round tracker at the end of the round, must they always be stacked on the round space (keeping their orientation), or can you put one on the space and the rest next to it? I ask because I wonder how to use the tools that let you use dice from the round tracker - are you meant to be able to see all the dice saved to it, or only the topmost ones of each stack?
@@ -316,7 +323,7 @@ For each tool card, the first use in the game costs one Favor Token, every use a
 
 [public-objective-scoring](https://boardgamegeek.com/thread/1762575/public-objective-scoring)
 
-> We played our first game today and had a question rewarding the scoring of public Objective cards. If the same die could be countedtwice due to it making two sets of the public Objective, is it counted twice, or only once.
+> We played our first game today and had a question rewarding the scoring of public Objective cards. If the same die could be counted twice due to it making two sets of the public Objective, is it counted twice, or only once.
 For instance, if the public Objective is "Light Shades" (2vp for each set of 1 value and 2 value dice). If I have a set of 1 with a 2 in the same column, and another set of 1 and 2 in a row, but I would be using the same value 2 card to make the sets, do I only score one set, or both since I'm reusing one of the dice to make them?
 
 It doesn't matter if the dice are in rows or columns. The "set" would include, in your example, a 1 pip die, and a two pip die as the set, giving you 2vp. Those dice cannot be counted toward another "set". That is, each die can only belong to one set.
@@ -362,8 +369,26 @@ Masterwork board & dice.
 Each player would have: Favour tokens based on the difficulty of their window. 1 inspiration card (Passion). 1 private objective (base game + rare dice (passion))
 Apprentice window pattern: Does that sound about right? I was wondering if it would be better to lay out 3 public objectives; 1 base game, 1 from Life, 1 from Passion? You could do the same with the private as well, give everyone 1 from the base game and 1 from Passion. Any thoughts?
 
-All public objectives could be randomly selected, so you don't need to choose one from each expansion. But this way you guarantee some great replayability each time you play.
-Just be sure to not have objectives that conflict with others. And about private objetives: the way you described is a "variant". Official rules states players get only 1 Passion private objective (if playing with Rare Glass module). I called a "variant" because it's what the FAQ we have here said (and I liked, sounds like a "new module"). 1 private objective (the Rare Glass from Passion) is the publisher's way (written in rules). 2 private objective (Rare Glass + base game, or even from 5-6 PE) it's the designer's way. That's what I meant. But in reality is just up to us to decide the way we'll play. And that's what I love the most in those Sagrada expansions!
+The setup you've outlined seems mostly correct. For the central setup:
+
+- Round track
+- 2 tool cards
+- 3 public objectives (1 from the base game, 1 from Passion, 1 from Life)
+- The dice pool
+- 1 Rare Glass board (Passion)
+- Apprentice deck
+- Masterwork board & dice
+
+Each player should have:
+
+- Favor tokens based on the difficulty of their window
+- 1 inspiration card (Passion)
+- 1 private objective (1 from the base game or 1 from Passion, depending on the expansion used)
+- Apprentice window pattern
+
+Regarding the public objectives, while you can certainly choose 1 from each expansion (base, Passion, Life), remember that public objectives can be randomly drawn. If you want variety and replayability, it's fine to randomize the 3 public objectives.
+
+For private objectives, the official rules state that each player gets only 1 Passion private objective if using the Rare Glass module. However, there is some ambiguity about private objectives. The designers have mentioned both giving 1 private objective (official rules) and giving 2 (as a variant). In some threads, it has been stated that you can give 2 private objectives per player, but this is not settled in the official rules, and you can choose whichever method you prefer.
 
 [game-setup-after-player-setup](https://boardgamegeek.com/thread/3051247/game-setup-after-player-setup)
 
@@ -375,9 +400,13 @@ Intentionally done to prevent new players from thinking they needed to make cons
 
 > Can a player only draft a dice that can be legally placed? If none of the dice can be legally placed, and the tools cannot assist a player, is the player forced to pass his/her turn?
 
-On your turn you may draft any die you want. You can then either use it in your window or discard it. If the tools don't help then you can draft a die that your neighbor wants (if you like to play viciously).
-EDIT: It seems that this is one thing that changed in the final copy of the rules: "Players may choose not to draft a die during their turn."
-So if you want to play with the official rules, you should only draft a die if you can place it on your window. Alternatively, you may pass.
+On your turn, you may draft any die you want. You can then either use it in your window or discard it. If the tools don’t help, you can draft a die that your neighbor wants (if you like to play viciously).
+
+However, it seems that this rule changed in the final copy of the rules. The official rules states in page 3, under "Dice Placement Restrictions":
+
+"Players may choose not to draft a die during their turn."
+
+This means you should only draft a die if you can place it on your window. Alternatively, you may pass. If none of the dice can be legally placed, you are forced to pass your turn.
 
 [what-that-means](https://boardgamegeek.com/thread/3139236/what-that-means)
 
@@ -385,7 +414,7 @@ So if you want to play with the official rules, you should only draft a die if y
 
 > If you see you did an error when you placed the dice and didn't respect a rule, can you remove the dice as soon as you see it or must you wait until the end of the game? I'm not implying you redraft if you see the mistake, but that could help you save some points if you can replace the bad dice later (even if 1 spot will be left open at the end for sure).
 
-Siting the rulebook, Page 4: It Quote:
+Siting the rulebook, Page 4: It Quotes:
 If a Player’s Window is ever found to break any of the placement restrictions, that player must immediately remove dice (of their choice) from their Window until all restrictions are obeyed.
 
 [lens-cutter-5-tool-card-clarification](https://boardgamegeek.com/thread/1866493/lens-cutter-5-tool-card-clarification)
@@ -412,7 +441,13 @@ Every dice that is diagonally adjacent to a dice of the same color is worth 1 po
 
 > What would be the easiest tool cards to use for a first game? What tools are the easiest to explain to first time players?
 
-I always play with the +/- 1 Tool with first timers.
+The rulebook does not specify which tool cards are easier for beginners, but it does indicate that you can choose the number of tool cards based on difficulty, where having more tools (up to 5) makes the game easier and fewer tools (down to 1) makes it more challenging. For beginners, it’s best to choose tools that don’t require complex manipulation of dice that are already placed on the window. Here are some good choices:
+
+1. The Tool that lets you flip a die to the other side (where opposite sides always add up to 7).
+2. The Tool that allows you to swap a die from the round tracker with one from the dice pool.
+3. The Tool that lets you grab a new die from the bag and set its value.
+
+Additionally, the +/- 1 Tool is also great for first-time players.
 
 [how-many-dice-in-the-bag-to-start](https://boardgamegeek.com/thread/2574460/how-many-dice-in-the-bag-to-start)
 
@@ -428,7 +463,7 @@ When it says "after drafting" the actions are performed on the die that you just
 
 [public-objectives-explanations](https://boardgamegeek.com/thread/2121000/public-objectives-explanations)
 
-> Struggling with interpreting the various public objective cards and how to score them. For example, the various shade cards give points for pairs of numbers. Are these pairs adjacent or do they have a space between them? As the card is read per its illustration with a gap between the two dice, when compared to say the Color Variety card which also has a gap between the dice, it implies that there must be a gap. But that also seems odd, so we are unsure. If they are to be adjacent, why not illustrate them touching on the card? Another example is that Color Variety card. Does the set need to be in that W arrangement, or does it mean any set of each of the five colors regardless of orientation? Is there an errata somewhere with clarificaritions, or can any rulemeisters perhaps chime in?
+> Struggling with interpreting the various public objective cards and how to score them. For example, the various shade cards give points for pairs of numbers. Are these pairs adjacent or do they have a space between them? As the card is read per its illustration with a gap between the two dice, when compared to say the Color Variety card which also has a gap between the dice, it implies that there must be a gap. But that also seems odd, so we are unsure. If they are to be adjacent, why not illustrate them touching on the card? Another example is that Color Variety card. Does the set need to be in that W arrangement, or does it mean any set of each of the five colors regardless of orientation?
 
 If you're trying to count sets of 1s and 2s, for example, count up your 1s, count up your 2s, whichever there are fewer of is how many sets you have. If you're trying to count sets of all colors, just count up each color separately; whichever color you have the fewest of, you have that many sets of all colors. Where they are placed on your window when you count them, in relation to each other or otherwise, does not matter at all. You do not count all possible permutations. if you have two 1s and two 2s, you do NOT count the first 1 and the first 2, the first 1 and the second 2, the second 1 and the first 2, and the second 1 and the second 2 separately. two 1s and two 2s is 2 sets of 1-2. two 1s and four 2s is still 2 sets of 1-2.
 
@@ -440,7 +475,7 @@ That you don't need to count actual sets, just the number of dice for given type
 
 [question-about-tool-card-nr-12](https://boardgamegeek.com/thread/2222376/question-about-tool-card-nr-12)
 
-> Tool card number 12 says "Move maximum of two dice of the same color, wich responds to the color on the round board". Im wondering for example if it is round 4 and i have on my round score board: 1 round red dice, 2 round blue dice, 3 round yellow dice. And now i want to move something with tool number 12. Can I move red, blue and yellow dice because those 3 colors are there? Or for example only yellow, because it was the last color on the round board?
+> Tool card number 12 says "Move maximum of two dice of the same color, which responds to the color on the round board". Im wondering for example if it is round 4 and i have on my round score board: 1 round red dice, 2 round blue dice, 3 round yellow dice. And now i want to move something with tool number 12. Can I move red, blue and yellow dice because those 3 colors are there? Or for example only yellow, because it was the last color on the round board?
 
 The Tap Wheel tool says: Move up to two dice of the same color that match the color of a die on the Round Track. Because it says "a die", it means you can use the color of any die on the Round Board. So in your example, you could move up to 2 red dice, up to 2 blue dice, or up to 2 yellow dice.
 
@@ -454,7 +489,7 @@ Draft means to take a dice from the die pool. So you draft once, place it, use t
 
 > About Private Objective Cards, when doing final scoring, are you counting the pips of your private color on the three spots on the card, or anywhere in your stain glass window?
 
-From rules, End Game Scoring: It quote: Each player tallies their Victory Point total, gaining points from: Their Private Objective Card - 1 Victory Point for each pip on dice of the specified color. We're clarifying this based on feedback from playtests. also, the graphics were adjusted from the prototypes sent to reviewers to help reinforce that the shape doesn't matter
+The manual clarifies in the End Game Scoring section that: "Each player tallies their Victory Point total, gaining points from: Their Private Objective Card - 1 Victory Point for each pip on dice of the specified color". We're clarifying this based on feedback from playtests. Also, the graphics were adjusted from the prototypes sent to reviewers to help reinforce that the shape doesn't matter
 
 > Regarding solo play. The rules state to draw two private and 2 public objective cards. Do I get the advantage of all of the private objective cards at the end of a solo game?
 
@@ -505,12 +540,11 @@ The key word here is anywhere. Forget rows, columns, pull all dice off the board
 
 [solo-mode-ai-dice-and-turns](https://boardgamegeek.com/thread/2498441/solo-mode-ai-dice-and-turns)
 
->  In the solo mode. It looks like I draw four dice from the bag. I play two dice and place two on the score track.
-Does each AI die take up a turn track spot?
+> In the solo mode. It looks like I draw four dice from the bag. I play two dice and place two on the score track. Does each AI die take up a turn track spot? 
 
-No.
+No, each AI die does not take up a turn track spot in solo mode. 
 
-> Or, do I still take ten full turns but add all the dice for the AI score?
+> Do I still take ten full turns but add all the dice for the AI score?
 
 Yes. Also, if you can't place a die in a round, it is also added to the score track and therefore to the AI score.
 
@@ -520,7 +554,11 @@ Yes. Also, if you can't place a die in a round, it is also added to the score tr
 
 > Is it legal to place a die in an illegal position intentionally in order to remove a die of your choice so that you can get more points? Been thinking about this for a while.
 
-No, you cannot intentionally place a die illegally. The rules say you must follow the given restrictions. Or obey the dice placement rules. Unintentional illegal dice placement happens, which is why we call out how to resolve it in the rule book. The intention of the rules is such that players would never be able to break them. If you're knowingly/intentionally breaking a rule to exploit the resolution, that would be considered cheating.
+No, you cannot intentionally place a die illegally. The rules say you must follow the given restrictions or obey the dice placement rules. Unintentional illegal dice placement happens, which is why we call out how to resolve it in the rulebook. The rules about correcting illegal placements are outlined on page 4 in the "Dice Placement Mistakes" section:
+
+“If a Player’s Window is ever found to break any of the placement restrictions, that player must immediately remove dice (of their choice) from their Window until all restrictions are obeyed. These dice are out of play and any resulting open spaces will count against their score as normal.”
+
+The intention of the rules is such that players would never be able to break them. If you're knowingly/intentionally breaking a rule to exploit the resolution, that would be considered cheating.
 
 [errata-on-italian-rules-about-tool-cards](https://boardgamegeek.com/thread/2033231/errata-on-italian-rules-about-tool-cards)
 
@@ -530,35 +568,40 @@ Apparently there is something wrong in the translation. You only use 3 face-up t
 
 [copper-foil-burnisher](https://boardgamegeek.com/thread/1954331/copper-foil-burnisher)
 
-> Clarification the action of Copper Foil Burnisher. Can you use this tool to immediately place a drafted die ignoring the value restriction, or must you first place the drafted die in a legal spot on the board and then move it? It makes a big difference towards the end of the game when empty spots are limited.
+> Clarification on the action of Copper Foil Burnisher. Can you use this tool to immediately place a drafted die ignoring the value restriction, or must you first place the drafted die in a legal spot on the board and then move it? It makes a big difference towards the end of the game when empty spots are limited.
 
 The card text says to move a die. A die that is not on the board cannot be moved by definition. In addition, the word draft on the card is not dark. All tools that affect drafting have the word draft in dark text.
 
 [tool-2-in-solo-mode](https://boardgamegeek.com/thread/2459490/tool-2-in-solo-mode)
 
-> Confused by using tool 2 in the Solo mode. If I unserstand the rules I would draft one die in a round for instance and then I want to use Tool 2. That means that I only can re-arange a die without taking a second one from the ones I just rolled? That means That I only can draft one die this round and my window will not be complete at the end of the game.
+> Confused by using tool 2 in the Solo mode. If I understand the rules I would draft one die in a round for instance and then I want to use Tool 2. That means that I only can re-arrange a die without taking a second one from the ones I just rolled? That means That I only can draft one die this round and my window will not be complete at the end of the game.
 
-You get two turns per round.
-On each of your turns you can do both actions, but not the same action twice.
-1)Draft a die =Take a die from the pool and place it in your window (optional)
-2) use a tool card( optional)
-So, for each round of the game, you may place a maximum of two new dice in your window, and use two tool cards,
+No, using Tool 2 does not prevent you from drafting a new die. In each round, you have two turns, and during each turn, you can either draft a die, use a tool, or both. According to the rulebook, the actions you can take on your turn are outlined in the "Gameplay" section on page 3:
+
+“On a player’s turn, they may perform each of the following actions in any order:
+
+ - **Select 1 die** from the Draft Pool and place it in an open space on their Window. This is referred to as Drafting a Die.
+ - **Use 1 Tool Card** by spending Favor Tokens.
+
+*Each action is optional — A player may choose to perform both actions, only one action, or pass their turn taking no actions.*”
+
+So, you can indeed draft a die and use a tool (such as Tool 2 to rearrange dice you’ve already placed) in the same round. You are allowed to place up to two dice in your window during a round, either by drafting and placing one die per turn or combining actions as needed.
 
 [first-dice-rule](https://boardgamegeek.com/thread/2161354/first-dice-rule)
 
-> The first dice must be placed on an edge. If afterwards we play a card that allows us to move dice, can there be a scenario where no dice are on and edge?
+> The first dice must be placed on an edge. If afterwards we play a card that allows us to move dice, can there be a scenario where no dice are on an edge? Or does at least one die have to be on an edge at all times?
 
-The rule says the first die must be placed on the edge. Nothing says it can't be moved afterwards, and no rule says anything about other dice needing to be on the edge. There can. Thematically it's strange, but it is within the rules.
+Yes, there can be a scenario where no dice are on the edge after moving them. In the rulebook, the relevant rule about die placement can be found on page 3 under the "Dice Placement Restrictions" section which states that:
 
-> Or does at least one dice have to be on an edge at all times?
+**“First die: Each player’s first die of the game must be placed on an edge or corner space.”**
 
-Nope.
+There is no requirement that "at least one die has to be on an edge at all times." After the first die placement, other dice can be moved, and it is allowed for none of the dice to remain on an edge. This is within the rules, though it may seem thematically unusual.
 
 [what-counts-as-a-set-for-the-deep-shades-public-ob](https://boardgamegeek.com/thread/2589661/what-counts-as-a-set-for-the-deep-shades-public-ob)
 
-> he Deep Shades public objective says 2 points for "Sets of 5 and 6 values anywhere." What does set mean here? If I have four 6s and three 5s, how many points do I get for this objective?
+> The Deep Shades public objective says 2 points for "Sets of 5 and 6 values anywhere." What does set mean here? If I have four 6s and three 5s, how many points do I get for this objective?
 
-6 points. You count all 6s and all 5s. Whichever you have the fewest, this is how many sets you have. In your example one of the 6s doesn't have a pair, so will not make a set. Just to be (more) clear: in your example you have three sets (three dice of 5s and 6s) and get 6 points.
+For the Deep Shades public objective, you score 2 points for each "Set" of 5 and 6 values anywhere on your board. To determine a set, you count all the 5s and 6s you have. The number of sets is determined by the color you have in the fewest quantity. For example, if you have four 6s and three 5s, you will have 3 sets (one set for each 5 and 6) and score 6 points. Any extra dice that don't form a set (like an unpaired 6) don't contribute.
 
 [force-an-error-on-oneself](https://boardgamegeek.com/thread/2731777/force-an-error-on-oneself)
 
@@ -592,7 +635,7 @@ If the die moved from column 4 was placed before (so die in column 5 was touchin
 
 [used-tool-to-place-illegally-remembering](https://boardgamegeek.com/thread/1972624/used-tool-to-place-illegally-remembering)
 
->If you use a tool's powers to place a die where it cannot normally be placed, what is the best way to mark or remember this? If you don't remember it, you may "catch" it later in the game, and have to take the penalty for an illegally placed die. Especially if players use that tool more than once. How confusing this is. Any detailed clarifications?
+> If you use a tool's powers to place a die where it cannot normally be placed, what is the best way to mark or remember this? If you don't remember it, you may "catch" it later in the game, and have to take the penalty for an illegally placed die. Especially if players use that tool more than once. How confusing this is. Any detailed clarifications?
 
 For a certain, adjacency rules can never be broken. It's only the colours or dots underneath the dice that can be broken.
 
