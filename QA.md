@@ -44,7 +44,10 @@ No, because the turn track is the timer for the end of the game.
   
 [question-about-running-pliers](https://boardgamegeek.com/thread/2089185/question-about-running-pliers)
 
-> The Running Pliers card reads After your first turn, immediately draft a die. Skip your next turn this round." It sound like you get to draft a place a second die right away, but lose your next turn.
+> The Running Pliers card reads After your first turn, immediately draft a die. Skip your next turn this round." 
+
+It sound like you get to draft a place a second die right away, but lose your next turn.
+
 > When you draft and place the second die, can you also play a second tool if you wanted to?
 
 Basically you get to draft both your dice for the round right away. This could be helpful, for instance, towards the end of the game when you are running out of placements on your player board, and two dice come up that you can use, and you don't want other players to snatch up the second one before your second draft that round.
