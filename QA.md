@@ -45,9 +45,7 @@ No, because the turn track is the timer for the end of the game.
 [question-about-running-pliers](https://boardgamegeek.com/thread/2089185/question-about-running-pliers)
 
 > The Running Pliers card reads After your first turn, immediately draft a die. Skip your next turn this round." 
-
-It sound like you get to draft a place a second die right away, but lose your next turn.
-
+> It sound like you get to draft a place a second die right away, but lose your next turn.
 > When you draft and place the second die, can you also play a second tool if you wanted to?
 
 Basically you get to draft both your dice for the round right away. This could be helpful, for instance, towards the end of the game when you are running out of placements on your player board, and two dice come up that you can use, and you don't want other players to snatch up the second one before your second draft that round.
@@ -363,36 +361,6 @@ As far as I know, none of the tool cards allow you to place same colours or same
 
 [setup-check-for-both-expansions](https://boardgamegeek.com/thread/2856372/setup-check-for-both-expansions)
 
-> Just want to check I've got the setup right when using Passion & Life.
-In the centre would be:
-Round track: 2 tool cards, 3 public objectives (base game + symmetry (Passion) + toil (life))
-The dice pool: 1 rare glass board (Passion).
-Apprentice deck.
-Masterwork board & dice.
-Each player would have: Favour tokens based on the difficulty of their window. 1 inspiration card (Passion). 1 private objective (base game + rare dice (passion))
-Apprentice window pattern: Does that sound about right? I was wondering if it would be better to lay out 3 public objectives; 1 base game, 1 from Life, 1 from Passion? You could do the same with the private as well, give everyone 1 from the base game and 1 from Passion. Any thoughts?
-
-The setup you've outlined seems mostly correct. For the central setup:
-
-- Round track
-- 2 tool cards
-- 3 public objectives (1 from the base game, 1 from Passion, 1 from Life)
-- The dice pool
-- 1 Rare Glass board (Passion)
-- Apprentice deck
-- Masterwork board & dice
-
-Each player should have:
-
-- Favor tokens based on the difficulty of their window
-- 1 inspiration card (Passion)
-- 1 private objective (1 from the base game or 1 from Passion, depending on the expansion used)
-- Apprentice window pattern
-
-Regarding the public objectives, while you can certainly choose 1 from each expansion (base, Passion, Life), remember that public objectives can be randomly drawn. If you want variety and replayability, it's fine to randomize the 3 public objectives.
-
-For private objectives, the official rules state that each player gets only 1 Passion private objective if using the Rare Glass module. However, there is some ambiguity about private objectives. The designers have mentioned both giving 1 private objective (official rules) and giving 2 (as a variant). In some threads, it has been stated that you can give 2 private objectives per player, but this is not settled in the official rules, and you can choose whichever method you prefer.
-
 [game-setup-after-player-setup](https://boardgamegeek.com/thread/3051247/game-setup-after-player-setup)
 
 > Does Game Setup have to happen after Player Setup? I understand that the digital app does it this way, but is it explicitly stated that one has to happen before the other?
@@ -403,9 +371,7 @@ Intentionally done to prevent new players from thinking they needed to make cons
 
 > Can a player only draft a dice that can be legally placed? If none of the dice can be legally placed, and the tools cannot assist a player, is the player forced to pass his/her turn?
 
-On your turn, you may draft any die you want. You can then either use it in your window or discard it. If the tools don’t help, you can draft a die that your neighbor wants (if you like to play viciously).
-
-However, it seems that this rule changed in the final copy of the rules. The official rules states in page 3, under "Dice Placement Restrictions":
+The rules state on page 3, under "Dice Placement Restrictions":
 
 "Players may choose not to draft a die during their turn."
 
