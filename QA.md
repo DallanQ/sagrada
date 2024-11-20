@@ -8,6 +8,33 @@
 
 Yes. Your challenge is to choose dice that is both good for you and low for round track each round, and using tools for reduce total dice in round track too.
 
+----
+page 4
+
+When playing Sagrada by yourself, you're trying to beat a Target Score. The Target Score is the sum of the values from all the dice on the Round Track at the end of the game.
+
+----
+page 4
+
+Each game is played as normal in 10 rounds, with a few small changes:
+
+Each round, pull 4 dice from the Dice Bag and roll them.
+Take 2 turns, choosing to draft and place a die (as normal) and/or use a Tool Card, or pass.
+
+----
+page 4 
+
+All remaining dice are placed on the Round Track as normal, taking care to not change the value of any dice. If no dice remain, use a Score Marker as a placeholder.
+
+----
+page 4
+
+The game ends after the end of 10th round. Before flipping the Round Track, add up the Target Score.
+
+The Target Score is the sum of the values from all the dice on the Round Track. Dice used to pay for Tool Cards are not counted.
+Tally your Victory Point total as normal (selecting only one of the two Private Objectives), however, you lose 3 Victory Points for each open space.
+If your Victory Point total is greater than the Target Score, you win!
+
 [solo-mode-clarification](https://boardgamegeek.com/thread/1760265/solo-mode-clarification)
 
 [is-there-an-faq-for](https://boardgamegeek.com/thread/2487966/is-there-an-faq-for)
@@ -23,33 +50,51 @@ Yes. Your challenge is to choose dice that is both good for you and low for roun
 > The game has a tool card that says "Move any one die in your window ignoring color restrictions" with a picture of a red die placed in a blue space." my question is: can we use this card for place a die adjacent to a die of the same color too?
 
 The tool Card is intended to be used so you can cover a colour on your board with a different coloured die. However, it also states that you can never break the adjacency rules. Never.
+
+----
+page 3
+
+Dice may never be placed orthogonally adjacent to a die of the same color or the same value. Example - Two red dice or two dice showing a 3 may not be placed side by side
   
 [running-pliers-and-tap-wheel-explained-plz](https://boardgamegeek.com/thread/2867007/running-pliers-and-tap-wheel-explained-plz)
 
-> In solo mode what does the Running Pliers tool card mean? What is my first turn?
-
-Your "first turn" is the first die that you draft in a round. The Running Pliers allow you to take both of your dice consecutively with no other players choosing in between.
-
-> In solo mode what does that Tap Wheel tool card mean? How do you pick the color of the die on the round track? Are you able to pick any color on the round track?
-
-Whatever color that you like on the round track, so long as you have two dice of that color in your window that can be legally swapped.
-
 > When playing solo are you allowed to take 2 turns and also use a tool card or is it 1 turn and 1 tool.
 
-It's actually up to two tools and up to two dice, divided into two sections. On your first turn of the round, you may take one die, and you may use one tool - both are optional, not mandatory. Then, on your second turn, you may do the same again. The Running Pliers would be an exception to this as you only take one turn in the round - you take one die (optional, although why you would not is unclear) and then you use a tool (the Pliers) to take another die. You do not get another turn that round so you could not use another tool.
+It's actually up to two tools and up to two dice, divided into two sections. On your first turn of the round, you may take one die, and you may use one tool - both are optional, not mandatory. Then, on your second turn, you may do the same again. 
 
-> When playing solo are there any times you will not add any dice to the round track?
+----
+page 4
 
-No, because the turn track is the timer for the end of the game.
-  
+Each game is played as normal in 10 rounds, with a few small changes:
+
+Each round, pull 4 dice from the Dice Bag and roll them.
+Take 2 turns, choosing to draft and place a die (as normal) and/or use a Tool Card, or pass.
+
 [question-about-running-pliers](https://boardgamegeek.com/thread/2089185/question-about-running-pliers)
 
 > The Running Pliers card reads After your first turn, immediately draft a die. Skip your next turn this round." 
-> It sound like you get to draft a place a second die right away, but lose your next turn.
+> It sound like you get to draft and place a second die right away, but lose your next turn.
 > When you draft and place the second die, can you also play a second tool if you wanted to?
 
 Basically you get to draft both your dice for the round right away. This could be helpful, for instance, towards the end of the game when you are running out of placements on your player board, and two dice come up that you can use, and you don't want other players to snatch up the second one before your second draft that round.
 You draft your first die, use the tool to draft your second die, then everyone else goes. When it gets back to you that round you do nothing, since you have already drafted both dice that round.
+
+----
+page 3
+
+Beginning with the Start Player, each player takes a turn in clockwise order. On a player's turn, they may perform each of the following actions in any order:
+
+Select 1 die from the Draft Pool and place it in an open space on their Window. This is referred to as Drafting a Die.
+Use 1 Tool Card by spending Favor Tokens.
+Each action is optional — A player may choose to perform both actions, only one action or pass their turn taking no actions.
+
+Turns proceed clockwise with each player taking a turn or passing. Example - Emily takes a turn (1), then Ben (2), then Mari (3)
+
+image of Emily, Ben, and Mari, with turns going from Emily, to Ben, to Mari, and then from Mari, to Ben, to Emily.
+
+Once the last player has completed their first turn, the round continues in reverse order (counter- clockwise). Beginning with the last player, each player takes a second turn (selecting a second die from the Draft Pool, etc.) Example - Mari takes her second turn (4), then Ben (5), then Emily (6)
+
+Once the Start Player has taken their second turn, proceed to the END OF THE ROUND.
 
 [initial-dice-placement-are-the-topsbottoms-also-ed](https://boardgamegeek.com/thread/1765937/initial-dice-placement-are-the-topsbottoms-also-ed)
 
@@ -59,13 +104,15 @@ There are 4 edges to the window, any of them are valid for the first die placed.
 
 The corners are mentioned to help clarify that they are valid (since playtesting revealed a few questions about corners specifically).
 
+----
+page 3
+
+When placing a die on a Window:
+
+First die: Each player's first die of the game must be placed on an edge or corner space
+
 [rule-clarification](https://boardgamegeek.com/thread/2086608/rule-clarification)
 
-> This question is in regard to the last die, or any undrafted dice. Besides keeping track of the round number, is there anything productive you can use those dice for?
-
-Yes, there's a tool that lets you exchange you drafted die with one of the unchosen ones, pretty handy towards the end when you are the last player and you are left with no useful options top choose from.
-
-But in the solo mode, you add the pips from all the dice on the round marker board to set the target score you're trying to beat each game, so you also have to think carefully about which dice you're NOT choosing each round.
 
 [tool-card-4-bleiaufteiber-in-german](https://boardgamegeek.com/thread/3324738/tool-card-4-bleiaufteiber-in-german)
 
@@ -78,6 +125,19 @@ two Private Objectives), however, you lose 3 Victory Points for
 each open space.
 
 It says about only two private objectives. You don't get a face down like a multiplayer game. This is one of the small changes from normal setup. 
+
+----
+page 4
+
+Each game is set up as normal with a few small changes:
+
+Favor Tokens are not used.
+2 Public Objectives and 2 Private Objective are placed face up.
+
+----
+page 4
+
+Tally your Victory Point total as normal (selecting only one of the two Private Objectives), however, you lose 3 Victory Points for each open space.
 
 
 [removing-die-that-violates-a-rule](https://boardgamegeek.com/thread/2517713/removing-die-that-violates-a-rule)
@@ -117,7 +177,17 @@ From the rulebook: "Once the last player has completed their first turn, the rou
 
 > If you use tools like Eglomise Brush to move a die ignoring a restriction (like color restriction), do you have to move the die to a spot that has a different color or can you move it on a white spot too?
 
-If this tool ignore color restriction, yes you can move to any color space including white ones. But note that tools restrictions (color or number) only refers to your window pattern, not adjacent dice. 
+If this tool ignore color restriction, yes you can move to any color space including white ones. 
+
+----
+page 3
+
+The die must match the color or value restriction of the space. White spaces have no restrictions Example - A red space on the window may only be filled by a red die (any value). A space showing a 3 may only be filled by a die showing a 3 (any color)
+
+----
+page 3
+
+Note: Any die may be placed on a white space as long as all the above restrictions are obeyed
 
 [moving-multiple-dice-all-at-once](https://boardgamegeek.com/thread/1790304/moving-multiple-dice-all-at-once)
 
