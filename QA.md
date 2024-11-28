@@ -150,11 +150,6 @@ Tally your Victory Point total as normal (selecting only one of the two Private 
 
 The rulebook under end of round says "all remaining dice are placed on the Round Track, covering the number space for the just completed round. If multiple dice remain (due to players skipping a draft action) these do not cover additional number spaces."
 
-----
-page 4
-
-All remaining dice are placed on the **Round Track**, covering the number space for the just completed round. If multiple dice remain (due to players skipping a draft action) these do not cover additional number spaces.
-
 [sagrada-and-expansions-faq](https://boardgamegeek.com/thread/2464353/sagrada-and-expansions-faq)
 
 [do-you-get-points-for-choosing-a-more-difficult-ti](https://boardgamegeek.com/thread/3299694/do-you-get-points-for-choosing-a-more-difficult-ti)
@@ -162,16 +157,6 @@ All remaining dice are placed on the **Round Track**, covering the number space 
 > Is there an advantage to choosing a more difficult tile? If you use up all your tokens, do you get more points for doing the harder tile?
 
 No. Each favor token is worth a point at the end of the game, so if you don’t end up spending any, you will get points. But the card itself doesn’t give you any points.
-
-----
-page 2
-
-*NOTE: Windows have varying difficulty from level 3 (easiest) to 6 (hardest) as indicated near the name. Difficult windows give more Favor Tokens*
-
-----
-page 4
-
-- **Favor Tokens** - 1 Victory Point for each unspent token.
 
 [variations-for-the-solo-play-rules](https://boardgamegeek.com/thread/1776711/variations-for-the-solo-play-rules)
 
@@ -181,15 +166,6 @@ page 4
 
 Yes, that's the correct order.
 From the rulebook: "Once the last player has completed their first turn, the round continues in reverse order (counter-clockwise). Beginning with the last player, each player takes a second turn."
-
-----
-page 3
-
-Turns proceed clockwise with each player taking a turn or passing. Example - Emily takes a turn (1), then Ben (2), then Mari (3)
-
-image of Emily, Ben, and Mari, with turns going from Emily, to Ben, to Mari, and then from Mari, to Ben, to Emily.
-
-Once the last player has completed their first turn, the round continues in reverse order **(counter- clockwise). Beginning with the last player**, each player takes a second turn (selecting a second die from the Draft Pool, etc.) Example - Mari takes her second turn (4), then Ben (5), then Emily (6)
 
 [bilanciamento-dadi-in-numero-diverso-di-giocatori](https://boardgamegeek.com/thread/2910286/bilanciamento-dadi-in-numero-diverso-di-giocatori)
 
